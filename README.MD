@@ -1,1 +1,2 @@
+[![mike](https://circleci.com/gh/mike/demo-spring-boot-testing.svg?style=svg)](https://app.circleci.com/pipelines/github/MikhailZheltyshev/springboot-test-example)
 #Example project for SpringBoot testing
