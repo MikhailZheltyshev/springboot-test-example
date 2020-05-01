@@ -1,5 +1,8 @@
 version: 2.1
 
+docker: # run the steps with Docker
+  - image: circleci/openjdk:8-jdk-stretch
+
 orbs:
   maven: circleci/maven@0.0.12
 
